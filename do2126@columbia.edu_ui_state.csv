@@ -1,0 +1,10 @@
+user,timestamp,state_key,event_name,interaction_state
+do2126@columbia.edu,2025-07-01T14:33:53.998Z,"[""Village_Autocomplete""]",change,"{""gid"":1128,""village"":""Genete"",""idx"":0}"
+do2126@columbia.edu,2025-07-01T14:33:53.998Z,"[""Matching_Dropdown""]",change,"{""idx"":0,""value"":""true positive""}"
+do2126@columbia.edu,2025-07-01T14:33:53.998Z,"[""PlantEarly""]",change,{}
+do2126@columbia.edu,2025-07-01T14:33:53.998Z,"[""PlantLate""]",change,{}
+do2126@columbia.edu,2025-07-01T14:33:53.998Z,"[""Vegetation""]",change,{}
+do2126@columbia.edu,2025-07-01T14:33:53.998Z,"[""Alert""]",valid,"{""valid"":true}"
+do2126@columbia.edu,2025-07-01T14:33:53.998Z,"[""Vegetation"",[16,1128]]",change,"{""left"":30,""right"":33}"
+do2126@columbia.edu,2025-07-01T14:33:53.998Z,"[""PlantEarly"",[16,1128]]",change,"{""left"":18,""right"":21}"
+do2126@columbia.edu,2025-07-01T14:33:53.998Z,"[""PlantLate"",[16,1128]]",change,"{""left"":25,""right"":27}"
